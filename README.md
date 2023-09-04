@@ -8,6 +8,6 @@ cd scaling-python
 ```
 
 ## :pushpin: Topics
-
 - [CPU scaling](/cpu-scaling/)
+- Upcoming topics...
 
